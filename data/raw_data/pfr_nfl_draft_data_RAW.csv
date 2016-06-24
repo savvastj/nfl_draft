@@ -1,4 +1,4 @@
-Draft_Yr,Rnd,Pick,Tm,,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,TD,Rec,Yds,TD,Tkl,Int,Sk,College/Univ,,Player_NFL_Link,Player_NCAA_Link
+Draft_Yr,Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Rush_Att,Rush_Yds,Rush_TD,Rec,Rec_Yds,Rec_TD,Tkl,Def_Int,Sk,College,,Player_NFL_Link,Player_NCAA_Link
 1967,1,1,BAL,Bubba Smith,DE,22,1976,1,2,6,62,46,111,,,,,,,,,,,,,,,Michigan St.,College Stats,/players/S/SmitBu00.htm,http://www.sports-reference.com/cfb/players/bubba-smith-2.html
 1967,1,2,MIN,Clint Jones,RB,22,1973,0,0,2,24,23,87,,,,,,602,2178,20,38,431,0,,,,Michigan St.,College Stats,/players/J/JoneCl00.htm,http://www.sports-reference.com/cfb/players/clinton-jones-1.html
 1967,1,3,SFO,Steve Spurrier,QB,22,1976,0,0,6,26,23,106,597,1151,6878,40,60,61,258,2,,,,,,,Florida,College Stats,/players/S/SpurSt00.htm,http://www.sports-reference.com/cfb/players/steve-spurrier-1.html
@@ -13484,16 +13484,16 @@ Draft_Yr,Rnd,Pick,Tm,,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Y
 2007,6,182,TAM,Adam Hayward,LB,23,2014,0,0,0,11,11,118,,,,,,,,,,,,136,,1.0,Portland,,/players/H/HaywAd98.htm,
 2007,6,183,HOU,Kasey Studdard,G,23,2010,0,0,1,8,8,25,,,,,,,,,,,,1,,,Texas,,/players/S/StudKa20.htm,
 2007,6,184,BUF,John Wendling,DB,24,2013,0,0,0,7,3,110,,,,,,,,,,,,114,1,,Wyoming,College Stats,/players/W/WendJo99.htm,http://www.sports-reference.com/cfb/players/john-wendling-1.html
-2007,6,185,ATL,David Irons,DB,24,2008,0,0,0,1,1,20,,,,,,,,,,,,16,,,Auburn,College Stats,/players/I/IronDa99.htm,http://www.sports-reference.com/cfb/players/david-irons-1.html
-2007,6,186,ATL,Trey Lewis,DT,22,2010,0,0,0,4,4,18,,,,,,,,,,,,25,1,,Washburn,,/players/L/LewiTr99.htm,
-2007,6,187,SFO,Thomas Clayton,RB,,,0,0,0,,,,,,,,,,,,,,,,,,Kansas St.,College Stats,,http://www.sports-reference.com/cfb/players/thomas-clayton-1.html
-2007,6,188,CIN,Matt Toeaina,DT,22,2012,0,0,2,12,,36,,,,,,,,,,,,35,,2.0,Oregon,,/players/T/ToeaMa99.htm,
-2007,6,189,TEN,Joel Filani,WR,,,0,0,0,,,,,,,,,,,,,,,,,,Texas Tech,College Stats,,http://www.sports-reference.com/cfb/players/joel-filani-1.html
-2007,6,190,NYG,Adam Koets,T,23,2010,0,0,0,2,2,12,,,,,,,,,,,,1,,,Oregon St.,,/players/K/KoetAd20.htm,
-2007,6,191,STL,Ken Shackleford,T,,,0,0,0,,,,,,,,,,,,,,,,,,Georgia,,,
-2007,6,192,GNB,Korey Hall,LB,24,2011,0,0,1,0,0,61,,,,,,,,,21,137,1,36,,,Boise St.,College Stats,/players/H/HallKo99.htm,http://www.sports-reference.com/cfb/players/korey-hall-1.html
-2007,6,193,GNB,Desmond Bishop,LB,23,2014,0,0,2,21,20,75,,,,,,,,,,,,226,1,9.0,California,College Stats,/players/B/BishDe99.htm,http://www.sports-reference.com/cfb/players/desmond-bishop-1.html
-2007,6,194,GNB,Mason Crosby,K,23,2015,0,0,0,20,20,144,,,,,,,,,,,,17,,,Colorado,College Stats,/players/C/CrosMa20.htm,http://www.sports-reference.com/cfb/players/mason-crosby-1.html
+2007,6,185,ATL,Trey Lewis,DT,22,2010,0,0,0,4,4,18,,,,,,,,,,,,25,1,,Washburn,,/players/L/LewiTr99.htm,
+2007,6,186,SFO,Thomas Clayton,RB,,,0,0,0,,,,,,,,,,,,,,,,,,Kansas St.,College Stats,,http://www.sports-reference.com/cfb/players/thomas-clayton-1.html
+2007,6,187,CIN,Matt Toeaina,DT,22,2012,0,0,2,12,,36,,,,,,,,,,,,35,,2.0,Oregon,,/players/T/ToeaMa99.htm,
+2007,6,188,TEN,Joel Filani,WR,,,0,0,0,,,,,,,,,,,,,,,,,,Texas Tech,College Stats,,http://www.sports-reference.com/cfb/players/joel-filani-1.html
+2007,6,189,NYG,Adam Koets,T,23,2010,0,0,0,2,2,12,,,,,,,,,,,,1,,,Oregon St.,,/players/K/KoetAd20.htm,
+2007,6,190,STL,Ken Shackleford,T,,,0,0,0,,,,,,,,,,,,,,,,,,Georgia,,,
+2007,6,191,GNB,Korey Hall,LB,24,2011,0,0,1,0,0,61,,,,,,,,,21,137,1,36,,,Boise St.,College Stats,/players/H/HallKo99.htm,http://www.sports-reference.com/cfb/players/korey-hall-1.html
+2007,6,192,GNB,Desmond Bishop,LB,23,2014,0,0,2,21,20,75,,,,,,,,,,,,226,1,9.0,California,College Stats,/players/B/BishDe99.htm,http://www.sports-reference.com/cfb/players/desmond-bishop-1.html
+2007,6,193,GNB,Mason Crosby,K,23,2015,0,0,0,20,20,144,,,,,,,,,,,,17,,,Colorado,College Stats,/players/C/CrosMa20.htm,http://www.sports-reference.com/cfb/players/mason-crosby-1.html
+2007,6,194,ATL,David Irons,DB,24,2008,0,0,0,1,1,20,,,,,,,,,,,,16,,,Auburn,College Stats,/players/I/IronDa99.htm,http://www.sports-reference.com/cfb/players/david-irons-1.html
 2007,6,195,DAL,Deon Anderson,FB,24,2010,0,0,1,1,1,39,,,,,,2,3,0,9,67,1,14,,,Connecticut,College Stats,/players/A/AndeDe01.htm,http://www.sports-reference.com/cfb/players/deon-anderson-1.html
 2007,6,196,KAN,Herbert Taylor,T,23,2012,0,0,0,1,1,20,,,,,,,,,,,,,,,TCU,College Stats,/players/T/TaylHe21.htm,http://www.sports-reference.com/cfb/players/herbert-taylor-1.html
 2007,6,197,SEA,Courtney Taylor,WR,23,2008,0,0,0,1,1,18,,,,,,,,,14,136,0,6,,,Auburn,College Stats,/players/T/TaylCo00.htm,http://www.sports-reference.com/cfb/players/courtney-taylor-1.html
