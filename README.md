@@ -1,4 +1,4 @@
-This is the repo my blog post on [Exploring the NFL Draft with Python](savvastjortjoglou.com/nfl-draft.html).
+This is the repo my blog post on [Exploring the NFL Draft with Python](http://savvastjortjoglou.com/nfl-draft.html).
 
 I've provided the [conda](http://conda.pydata.org/docs/) environment that I used to code up the Jupyter notebook.
 
